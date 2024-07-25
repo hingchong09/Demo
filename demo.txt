@@ -1,1 +1,3 @@
 Hello world this is my first git hub push.
+
+Today is thursday , and I am learning java development.
